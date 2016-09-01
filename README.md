@@ -1,5 +1,5 @@
 # multi-module-web
-A sample Spring-MVC application for demonstrating web resources from a jar file
+A sample Spring-MVC application for demonstrating web resources being accessed from a jar file.
 #### Build
 ``` mvn clean install ```
 #### Browse
